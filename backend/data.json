@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Sample User",
+    "age": 25,
+    "height": 170,
+    "weight": 65,
+    "bmi": 22.49,
+    "category": "Normal weight",
+    "date": "2024-01-15T10:30:00.000Z"
+  }
+]
